@@ -141,3 +141,4 @@ const App = () => {
 ```
 
 And develop a project with this knowledge!
+I took these notes when watching [this course](https://www.youtube.com/watch?v=b9eMGE7QtTk)! And all notes are written by me (:
